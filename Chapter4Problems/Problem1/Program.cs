@@ -27,7 +27,7 @@ namespace Problem1
                 }
                 Console.WriteLine("Sum is {0}", sum);
 
-                 
+
             }
         }
     }
